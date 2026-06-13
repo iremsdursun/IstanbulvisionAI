@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+runs/
+screenshots/
+results/
+old_tests/
+
+*.pyc
+*.pt
+.env
+.DS_Store

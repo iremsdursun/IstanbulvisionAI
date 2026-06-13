@@ -1,0 +1,23 @@
+[
+    {
+        "mekan": "Kadıköy",
+        "zaman": "2026-04-25_11-21-20",
+        "kisi_sayisi": 20,
+        "yogunluk": "Yoğun",
+        "gorsel": "../screenshots/kadikoy_2026-04-25_11-21-20.jpg"
+    },
+    {
+        "mekan": "Kadıköy",
+        "zaman": "2026-04-25_11-22-22",
+        "kisi_sayisi": 17,
+        "yogunluk": "Yoğun",
+        "gorsel": "../screenshots/kadikoy_2026-04-25_11-22-22.jpg"
+    },
+    {
+        "mekan": "Kadıköy",
+        "zaman": "2026-04-25_11-23-22",
+        "kisi_sayisi": 13,
+        "yogunluk": "Orta",
+        "gorsel": "../screenshots/kadikoy_2026-04-25_11-23-22.jpg"
+    }
+]

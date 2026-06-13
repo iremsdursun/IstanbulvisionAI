@@ -1,0 +1,43 @@
+KAMERALAR = [
+
+    {
+        "ad": "Kadıköy",
+        "url": "https://livestream.ibb.gov.tr/cam_turistik/b_kadikoy.stream/chunklist.m3u8"
+    },
+
+    {
+        "ad": "Mısır Çarşısı",
+        "url": " https://livestream.ibb.gov.tr/cam_turistik/b_misircarsisi.stream/chunklist.m3u8"
+    },
+
+    {
+        "ad": "Üsküdar",
+        "url": "https://livestream.ibb.gov.tr/cam_turistik/b_uskudar.stream/chunklist.m3u8"
+    },
+
+    {
+        "ad": "Saraçhane",
+        "url": "https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/chunklist.m3u8"
+    },
+
+    {
+        "ad": "Taksim Meydanı",
+        "url": "https://livestream.ibb.gov.tr/cam_turistik/b_taksim_meydan.stream/chunklist.m3u8"
+    },
+
+    {
+        "ad": "Kız Kulesi",
+        "url": "https://livestream.ibb.gov.tr/cam_turistik/new_K%C4%B1zkulesi.stream/playlist.m3u8"
+    },
+
+    {
+        "ad": "Kapalı Çarşı",
+        "url": "https://livestream.ibb.gov.tr/cam_turistik/b_kapalicarsi.stream/chunklist.m3u8"
+    },
+
+    {
+        "ad": "Eyüp Sultan",
+        "url": "https://livestream.ibb.gov.tr/cam_turistik/b_eyupsultan.stream/chunklist.m3u8"
+    }
+
+]
